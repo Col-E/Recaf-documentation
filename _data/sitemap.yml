@@ -1,0 +1,15 @@
+toc:
+  - title: Setup
+    subfolderitems:
+      - page: Getting Recaf
+        url: /setup-get.html
+      - page: Java 8
+        url: /setup-java8.html
+      - page: Java 11+
+        url: /setup-java11.html
+  - title: Using Recaf
+    subfolderitems:
+      - page: Workspaces
+        url: /use-workspace.html
+      - page: Config
+        url: /use-config.html
