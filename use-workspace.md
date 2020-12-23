@@ -42,6 +42,8 @@ The phantom resource is a hidden resource common to all workspaces. It is simila
 
 If the phantom generation process fails it will emit a message in the console. This is rarely the case except for certain intensely obfuscated programs. In this situation you may have to provide libraries as secondary resources to use some features.
 
+In the config window under the _"Assembler"_ tab it can be toggled with the setting _"Generate missing classes"_
+
 ## Classpath Resource
 
 The classpath resource is a hidden resource common to all workspaces. It allows Recaf to read class files directly from memory.
@@ -67,7 +69,7 @@ Each resource's navigation tree is persistent. This means that when a directory 
 
 In order to quickly navigate to files it would be useful for there to be a filter. At the bottom of the navigation tree is a filter box. The content of the filter will show all tree items that contain the given path. For example `java/lang/String` and `String` will show the `String` class in the navigation tree _(Along with `StringBuilder` since it contains `String`)_.
 
-![javadoc example](img/workspace-search.gif)
+![javadoc example](img/workspace-search.gif?center)
 
 # Exporting your changes
 

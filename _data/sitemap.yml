@@ -13,3 +13,5 @@ toc:
         url: /use-workspace.html
       - page: Config
         url: /use-config.html
+      - page: Searching
+        url: /use-search.html
