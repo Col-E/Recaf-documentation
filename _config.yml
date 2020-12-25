@@ -2,7 +2,8 @@ title: Recaf documentation
 description: Documentation for Recaf, the modern bytecode editor
 logourl: https://github.com/Col-E/Recaf
 #url: "localhost:4000"
-url: "coley.software/recaf-documentation"
+url: "coley.software/Recaf-documentation"
+baseurl: /Recaf-documentation
 gems:
   - jekyll-remote-theme
 exclude:
