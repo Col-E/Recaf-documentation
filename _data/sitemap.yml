@@ -15,5 +15,15 @@ toc:
         url: /use-config.html
       - page: Searching
         url: /use-search.html
+      - page: Assembler
+        url: /use-assembler.html
       - page: Editing
         url: /use-editing.html
+  - title: Advanced
+    subfolderitems:
+      - page: Plugins
+        url: /adv-plugins.html
+      - page: Scripting
+        url: /adv-scripting.html
+      - page: Themes
+        url: /adv-themes.html

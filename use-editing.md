@@ -6,7 +6,7 @@ description: Hub page for editing capabilities
 
 # Relevant content
 
-- The different class modes
+- [The different class modes](use-modes.md)
     - Decompile mode
     - Table mode
     - Hex mode
@@ -18,7 +18,7 @@ description: Hub page for editing capabilities
 
 1. Load a file to edit, plus any supporting content
 2. Navigate to the class you want to edit
-3. Make your changes and save them
+3. Make your changes and save them _(`Control + S`)_
 4. Export the modified file
 
 ## Basic step 1: Loading
@@ -49,7 +49,7 @@ If your input file is not obfuscated and you have configured compiler support, t
 
 For more information see: 
 
-- [Making changes with bytecode](use-edit-via-bytecode.md)
+- [Making changes with decompiled code](use-edit-via-decompile.md)
 
 ### Editing bytecode
 

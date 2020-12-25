@@ -9,3 +9,16 @@ exclude:
   - Gemfile
   - Gemfile.lock
 remote_theme: Col-E/Jekyll-Obsidian-Theme
+
+# More > http://kramdown.gettalong.org/quickref.html
+# Options > http://kramdown.gettalong.org/options.html / https://github.com/jneen/rouge#full-options
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
