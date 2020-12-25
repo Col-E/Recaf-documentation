@@ -12,7 +12,7 @@ description: Hub page for editing capabilities
     - Hex mode
 - [Making changes with bytecode](use-edit-via-bytecode.md)
 - [Making changes with decompiled code](use-edit-via-decompile.md)
-- History and undo
+- [History and undo](use-history.md)
 
 # The basic steps
 
