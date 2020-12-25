@@ -15,3 +15,5 @@ toc:
         url: /use-config.html
       - page: Searching
         url: /use-search.html
+      - page: Editing
+        url: /use-editing.html

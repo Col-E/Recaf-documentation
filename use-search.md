@@ -15,7 +15,7 @@ In Recaf under the _"Search"_ menu item there are multiple kinds of searches. Ea
     - **Starts with**: If the target text starts with the text of the input field, match.
     - **Ends with**: If the target text ends with the text of the input field, match.
     - **Regex**: If the target text matches the regular expression pattern of the input field, match. 
-3. Searches can be sped up if you opt to skip packages you are not interested in looking at in larger files
+3. Searches can be sped up if you choose to skip packages you are not interested in looking at in larger files
 
 # Search Modes
 

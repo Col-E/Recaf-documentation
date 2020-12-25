@@ -8,8 +8,8 @@ description: Steps on ensuring you can install and run Recaf
 Recaf's only pre-requisite is that you have Java installed. However using older versions of Java may affect feature availability. See the following documentation guides for more information:
 
 
-- [Java 8](setup-java8.html)
-- [Java 11+](setup-java8.html)
+- [Java 8](setup-java8.md)
+- [Java 11+](setup-java8.md)
 
 If you have Java 9 or 10 installed, please update to Java 11 or higher.
 
