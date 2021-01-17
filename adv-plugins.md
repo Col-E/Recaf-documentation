@@ -21,7 +21,7 @@ To install a plugin for Recaf, drop it into the *"plugins"*  directory inside Re
 
 # Developing Plugins
 
-Recaf comes with a plugin system. You can create your own easily by setting up a workspace using this template project: [Recaf-plugin-workspace](https://github.com/Col-E/Recaf-plugin-workspace).  The plugin api interfaces are located in `me.coley.recaf.plugin.api` package. Your plugin must implement one of the following interfaces:
+Recaf comes with a plugin system. You can create your own easily by setting up a workspace using this template project: [Recaf-plugin-workspace](https://github.com/Recaf-Plugins/Recaf-plugin-workspace).  The plugin api interfaces are located in `me.coley.recaf.plugin.api` package. Your plugin must implement one of the following interfaces:
 
 **BasePlugin**
 
