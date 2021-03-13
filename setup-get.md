@@ -30,6 +30,16 @@ You disable or can change how often Recaf checks for updates in the config windo
 
 ![prompt example](img/update-prompt.png?style=center)
 
+# Running with specific Java versions
+
+Recaf will run using the Java version that your system defaults to.  
+
+If you are using Java 8 and you want to use a feature like JVM attaching or recompiling you will need to ensure the default version is a JDK, not a JRE.
+
+You can alternatively specify the version used when launching via command line:
+
+<center><video controls><source src="img/run-version.mp4" type="video/mp4"></video></center> 
+
 ----------------------------------
 
 # Troubleshooting
