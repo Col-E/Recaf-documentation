@@ -15,7 +15,7 @@ To install a plugin for Recaf, drop it into the *"plugins"*  directory inside Re
 | String replacer  | Replace text globally *(Exact match)*                        | 2.0.0                  | 1.0.0                | [strrep](plugins/strrep-1.0.0.jar)                           |
 | RPC              | A Discord RichPresence plugin for Recaf                      | 2.0.0                  | 1.0.0                | [FlowArg/RecafPluginRPC](https://github.com/FlowArg/RecafPluginRPC) |
 | AntiAntiDebug    | Prevents JVMs from detecting Recaf                           | 2.0.0                  | 1.0.0                | [xxDark/AntiAntiDebug](https://github.com/xxDark/AntiAntiDebug) |
-| Decompile Export | Adds a decompile-all feature to resources, classes, and packages in the navigation tree | 2.0.0                  | 1.1.0                | [decompile](plugins/decompile-1.1.0.jar)                     |
+| Batch Decompile  | Adds a decompile-all feature to resources, classes, and packages in the navigation tree | 2.0.0                  | 1.2.0                | [decompile](https://github.com/Recaf-Plugins/Batch-Decompile/releases)                     |
 | Theme Editor     | Make the theme editor available                              | 2.0.0                  | 1.0.0                | [theme](plugins/theme-1.0.0.jar)                             |
 | Illegal Renamer  | Renames classes / methods / fields with names that include illegal characters, or match reserved keywords. Allowed characters are: Letters, Digits, `$`, `/` | 2.0.0                  | 1.3.0                | [illegalrenamer](plugins/illegalrenamer-1.3.0.jar)           |
 
