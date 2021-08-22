@@ -16,7 +16,9 @@ If you update to Java 11 or higher you don't have to do any of this. Recaf will 
 
 Recaf's UI is built using JavaFX. Please make sure that the version of Java 8 that you have installed bundles JavaFX. Known supported vendors are:
 
-- [Amazon Corretto](https://aws.amazon.com/corretto/)
+- [Amazon's Corretto](https://aws.amazon.com/corretto/)
+- [Azul's ZuluFX](https://www.azul.com/downloads/?package=jdk-fx)
+- [Bellsoft's Liberica](https://bell-sw.com/pages/downloads/) _(Full JDK package)_
 
 # Allow Recaf to access the compiler and attach-api
 
