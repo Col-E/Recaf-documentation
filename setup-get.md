@@ -19,7 +19,7 @@ Recaf is distributed as an executable jar file. You can get the latest release i
 
 1. Visiting the project's [release's section on GitHub](https://github.com/Col-E/Recaf/releases) and downloading the latest `recaf-2.X.X-J8-jar-with-dependencies.jar`
 2. Download using [homebrew](https://formulae.brew.sh/cask/recaf) with `brew install --cask recaf`
-3. Download from the [Arch user repository](https://aur.archlinux.org/packages/recaf/)
+3. Download from the [Arch user repository](https://aur.archlinux.org/packages/recaf-bin/)
 4. Download or clone the project then run the build script: `build/build.sh`
 
 # Updating
