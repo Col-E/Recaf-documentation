@@ -9,7 +9,7 @@ Recaf's only pre-requisite is that you have Java installed. However using older 
 
 
 - [Java 8](setup-java8.md)
-- [Java 11+](setup-java8.md)
+- [Java 11+](setup-java11.md)
 
 If you have Java 9 or 10 installed, please update to Java 11 or higher.
 
