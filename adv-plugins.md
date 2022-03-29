@@ -18,7 +18,8 @@ To install a plugin for Recaf, drop it into the *"plugins"*  directory inside Re
 | Batch Decompile  | Adds a decompile-all feature to resources, classes, and packages in the navigation tree | 2.0.0                  | 1.2.0                | [decompile](https://github.com/Recaf-Plugins/Batch-Decompile/releases)                     |
 | Theme Editor     | Make the theme editor available                              | 2.0.0                  | 1.0.0                | [theme](plugins/theme-1.0.0.jar)                             |
 | Illegal Renamer  | Renames classes / methods / fields with names that include illegal characters, or match reserved keywords. Allowed characters are: Letters, Digits, `$`, `/` | 2.0.0                  | 1.3.0                | [illegalrenamer](plugins/illegalrenamer-1.3.0.jar)           |
-| NO-OP            | Replace method bodies with a simple return statement in one click | 2.0.0             | 1.0.0                | [tth05/NO-OP](https://github.com/tth05/RecafPluginNOOP/releases)
+| NO-OP            | Replace method bodies with a simple return statement in one click | 2.0.0             | 1.0.0                | [tth05/NO-OP](https://github.com/tth05/RecafPluginNOOP/releases) |
+
 # Developing Plugins
 
 Recaf comes with a plugin system. You can create your own easily by setting up a workspace using this template project: [Recaf-plugin-workspace](https://github.com/Recaf-Plugins/Recaf-plugin-workspace).  The plugin api interfaces are located in `me.coley.recaf.plugin.api` package. Your plugin must implement one of the following interfaces:
